@@ -1,0 +1,5 @@
+Common Delay Reasons:
+- Heavy traffic in urban areas
+- Bad weather conditions
+- High order volume
+- Vehicle breakdown
