@@ -97,3 +97,14 @@ frontend/index.html
 - Better retrieval ranking
 - AWS deployment
 - Advanced chunking
+
+## Screenshots
+
+### API Documentation
+![Swagger Docs](assets/swagger.png)
+
+### Frontend Interface
+![Frontend](assets/frontend.png)
+
+### Sample Response
+![Response](assets/response.png)
